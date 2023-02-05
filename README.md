@@ -19,7 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahendra-lohar&label=Profile%20views&color=0e75b6&style=flat" alt="mahendra-lohar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ujwal19k&label=Profile%20views&color=0e75b6&style=flat" alt="ujwal-katariya" /> </p>
 
 [![](https://visitcount.itsvg.in/api?id=Ujwal19k&icon=0&color=0)](https://visitcount.itsvg.in)
 
