@@ -18,10 +18,10 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ujwal19k&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-
+<!--
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+-->
 ---
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ujwal19k&label=Profile%20views&color=0e75b6&style=flat" alt="ujwal-katariya" /> </p> -->
 
