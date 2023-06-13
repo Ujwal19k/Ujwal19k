@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Ujwal Katariya<br>👀 I’m interested in Graphic Designing and Frontend Development<br>🌱 I’m currently learning DSA<br>📫 How to reach me ? : <a href="www.linkedin.com/in/ujwal-katariya-4aa171221">LinkedIn</a> / <a href="mailto:ujwalkatariya17@gmail.com">E-mail</a>
+👋 Hi, I’m Ujwal Katariya<br>👀 I’m interested in Frontend Development and UI/UX Design<br>🌱 I’m currently learning DSA and User Interface Design<br>📫 How to reach me ? : <a href="www.linkedin.com/in/ujwal-katariya-4aa171221">LinkedIn</a> / <a href="mailto:ujwalkatariya17@gmail.com">E-mail</a>
 
 
 ## 🌐 Socials:
